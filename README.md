@@ -55,7 +55,7 @@ You can try these challenges yourself to **practice CSS and build your frontend 
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/daily-css-challenge.git
+[git clone https://github.com/your-username/daily-css-challenge.git](https://github.com/LapSatyam/CSS-Challenges.git)
 ```
 
 ## 📌 Goal
