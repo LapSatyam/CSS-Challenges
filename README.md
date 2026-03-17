@@ -29,15 +29,15 @@ Example:
 ```
 daily-css-challenge
 │
-├── challenge-01
+├── Day-01
 │   ├── index.html
 │   ├── style.css
 │
-├── challenge-02
+├── Day-02
 │   ├── index.html
 │   ├── style.css
 │
-└── challenge-03
+└── Day-03
     ├── index.html
     ├── style.css
 ```
